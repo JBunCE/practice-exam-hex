@@ -1,4 +1,4 @@
-package com.jbunce.practiceexamhex.infraestructure.repositories.interfaces.jpa;
+package com.jbunce.practiceexamhex.infraestructure.repositories.jpa;
 
 import com.jbunce.practiceexamhex.infraestructure.dao.TaskEntity;
 import org.springframework.data.jpa.repository.JpaRepository;

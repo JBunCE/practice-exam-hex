@@ -1,9 +1,8 @@
-package com.jbunce.practiceexamhex.infraestructure.repositories.interfaces;
+package com.jbunce.practiceexamhex.domain.models.repositories;
 
 import com.jbunce.practiceexamhex.domain.models.Task;
 
 import java.util.List;
-import java.util.Optional;
 
 public interface ITaskRepository {
 

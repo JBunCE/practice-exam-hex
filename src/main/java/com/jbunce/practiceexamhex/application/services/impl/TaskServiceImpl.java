@@ -4,7 +4,7 @@ import com.jbunce.practiceexamhex.application.services.ITaskService;
 import com.jbunce.practiceexamhex.domain.models.Task;
 import com.jbunce.practiceexamhex.domain.models.BaseResponse;
 import com.jbunce.practiceexamhex.domain.models.value.objects.Status;
-import com.jbunce.practiceexamhex.infraestructure.repositories.interfaces.ITaskRepository;
+import com.jbunce.practiceexamhex.domain.models.repositories.ITaskRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
